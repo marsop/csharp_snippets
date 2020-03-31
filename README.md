@@ -1,4 +1,4 @@
-# Readme
+# C# Snippets
 
 This repository contains useful snippets used in my projects:
 
