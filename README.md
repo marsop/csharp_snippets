@@ -1,6 +1,11 @@
 # Readme
 
-This repository contains useful snippets used in my projects
+This repository contains useful snippets used in my projects:
+
+## List
+
+- ```ifn```
+- ```ncheck```
 
 ## How to import
 
