@@ -4,8 +4,8 @@ This repository contains useful snippets used in my projects:
 
 ## List
 
-- ```ifn```
-- ```ncheck```
+- ```ifn``` : checks that an argument is not null before using it
+- ```ncheck```: checks that an argument is not null before assigning it
 
 ## How to import
 
